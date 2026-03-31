@@ -1,7 +1,7 @@
 # Symmetry Aware Partial Diffusion
 A codebase that runs symmetrical partial diffusion on any given input sequence. Automated sequence recovery and symmetrization. No symmetry specification required - the code automatically adjusts to the users need. 
 
-Rotationa matrices etc. are provided. The primary goal of this model is to accurately predict capsid structure using minimal computational means. 
+C,D,T,O, and I matrices are provided. The primary goal of this model is to accurately predict capsid structure using minimal computational means. 
 
 A simple file replacement schematic is shown below - Boltz v0.4.0 is required for proper compatability. 
 
